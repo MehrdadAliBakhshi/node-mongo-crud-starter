@@ -1,0 +1,16 @@
+{
+  "name": "product",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.19.0"
+  }
+}
